@@ -1,4 +1,4 @@
-<img width="980" height="467" alt="image" src="https://github.com/user-attachments/assets/49053128-9779-4239-82b1-c819eeb7e4a0" />
+
 # Proyecto Final: Sistema de Reservas de Canchas (Solana)
 
 **Alumno:** Alexsandro Vazquez Salvador
