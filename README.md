@@ -43,11 +43,14 @@ Se añadieron 3 reglas de negocio:
 <img width="980" height="469" alt="image" src="https://github.com/user-attachments/assets/e0a905d3-7be7-460f-9f30-83598c45b65d" />
 ## 5. Frontend (Interfaz de Usuario)
 
-El frontend fue desarrollado en React con Vite y se conecta a la Devnet de Solana. Permite a los usuarios conectar su wallet, ingresar el nombre de la cancha, su ID de usuario y el horario para realizar una reserva real en el programa.
+El frontend fue desarrollado en React con Vite y se conecta a la Devnet de Solana. Permite conectar la wallet, ingresar el nombre de la cancha, el ID de usuario y el horario para gestionar reservas.
 
-Puedes encontrar el código del frontend en el siguiente repositorio:
-(https://github.com/sandro-alex22/reservas-cancha-frontend)
+[Repositorio del Frontend](https://github.com/sandro-alex22/reservas-cancha-frontend)
 
 ### Evidencia de Funcionamiento del Frontend
+<img width="1501" height="901" alt="image" src="https://github.com/user-attachments/assets/e2fa308f-78ad-4d88-9709-2688875046b7" />
+##Se selecciona la wallet
+<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/d9cea8cf-73d7-4aa0-9dbc-7122f72c3a9a" />
+
 <img width="1441" height="921" alt="image" src="https://github.com/user-attachments/assets/a90b44da-891d-42e9-a438-876b3482b380" />
 
