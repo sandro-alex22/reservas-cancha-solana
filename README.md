@@ -11,7 +11,7 @@ Sistema descentralizado para gestionar reservas de canchas deportivas. Permite c
 El programa está desplegado en Devnet con el ID:
 ("EZ5TJT71SDcrumYrxtcMMNEmayuqqjShn5CK5sauQiwt")
 
-## 3. Aporte Propio (Mejoras Implementadas)
+## 3. Aporte 
 Se añadieron 3 reglas de negocio:
 1.  **Límite de reservas:** Un usuario no puede tener más de 3 reservas activas.
 2.  **Penalización por cancelación:** La reserva no se borra, se marca como cancelada y suma al contador del usuario.
