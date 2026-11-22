@@ -47,7 +47,7 @@ El frontend fue desarrollado en React con Vite y se conecta a la Devnet de Solan
 
 [Repositorio del Frontend](https://github.com/sandro-alex22/reservas-cancha-frontend)
 
-### Evidencia de Funcionamiento del Frontend
+### Evidencia 
 <img width="1501" height="901" alt="image" src="https://github.com/user-attachments/assets/e2fa308f-78ad-4d88-9709-2688875046b7" />
 ##Se selecciona la wallet
 <img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/d9cea8cf-73d7-4aa0-9dbc-7122f72c3a9a" />
